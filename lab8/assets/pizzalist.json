@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "pizzaName": "Margherita",
+    "description": "Tomato, mozzarella, basil",
+    "price": 6.1,
+    "imageUrl": "https://example.com/margherita.png"
+  },
+  {
+    "id": 2,
+    "pizzaName": "Capricciosa",
+    "description": "Tomato, mozzarella, ham, mushrooms",
+    "price": 8.0,
+    "imageUrl": "https://example.com/capricciosa.png"
+  },
+  {
+    "id": 3,
+    "pizzaName": "Diavola",
+    "description": "Tomato, mozzarella, salami, chili",
+    "price": 9.0,
+    "imageUrl": "https://example.com/diavola.png"
+  }
+]
